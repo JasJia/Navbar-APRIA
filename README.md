@@ -11,5 +11,11 @@ This design based on the website [Bootsnipp](http://bootsnipp.com), I just chang
 
 本设计参考了Bootsnipp网站导航栏的设计风格，我进行了一些细节的修改和美化。
 
+This is a simple gif picture, you can take a first look:
+
+这是一个简单效果的gif图，您可以看看效果：
+ 
+ ![use](/guide.gif)
+
 
 
